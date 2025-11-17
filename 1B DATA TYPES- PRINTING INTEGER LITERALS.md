@@ -12,7 +12,7 @@ To write a Python program to print the following integer literals: 123, 456, 789
 ## PROGRAM
 ```python
 # Reg.No-212223060297
-# Name- Vidiya Rupeni
+# Name- Vidiya Rupeni G
 
 num1 = 123
 num2 = 456
